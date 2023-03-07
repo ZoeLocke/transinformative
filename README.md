@@ -2,23 +2,17 @@
 
 A simple Q &amp; A format collection of facts on trans people, trans science, and trans life
 
-## Site structure
+## Trans people...
 
 ```mermaid
-graph TD
-    1(Trans people...)
-        2(...scientifically.)
-        3(...as criminals.)
-        4(...as victims.)
-        5(...in politics.)
-        6(...in the media.)
-    
-    1 --- 2
-    1 --- 3
-    1 --- 4
-    1 --- 5
-    1 --- 6
+graph LR
 
+    2(...scientifically.)
+    3(...as criminals.)
+    4(...as victims.)
+    5(...in politics.)
+    6(...in the media.)
+    
     2 -.- Chromosomes
     2 -.- Sex
     2 -.- Gender
