@@ -1,0 +1,6 @@
+[submodule "themes/slamp"]
+	path = themes/slamp
+	url = https://github.com/stephlocke/slamp
+[submodule "transinformative_site/themes/slamp"]
+	path = transinformative_site/themes/slamp
+	url = https://github.com/stephlocke/slamp

@@ -23,7 +23,7 @@ graph LR
     3 -.- Predation
     3 -.- Paedophilia
 
-    4 -.- Of_Rrape
+    4 -.- Of_Rape
     4 -.- Of_Assault
     4 -.- Of_Predation
     4 -.- Of_Harassment
@@ -33,7 +33,7 @@ graph LR
     5 -.- Laws
     5 -.- Politicians
 
-    6 -.- Social_media
+    6 -.- Social_Media
     6 -.- Misinformation
     6 -.- Drag
     6 -.- News
